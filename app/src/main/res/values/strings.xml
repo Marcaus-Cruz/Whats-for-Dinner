@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">What\'s For Dinner</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">What\'s For Dinner</string>
+    <string name="nav_header_subtitle">Manage your recipes, pantry, and shopping list</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add">Add</string>
+    <string name="action_remove">Remove</string>
+
+    <string name="button_edit">Edit</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_pantry">My Pantry</string>
+    <string name="menu_recipes">Explore Recipes</string>
+    <string name="menu_shoppinglist">Shopping List</string>
+    <string name="favorites_header">Your Favorite Recipes:</string>
+
+    <string name="home_morning_intro">Good Morning \n Here\'s the status of your recipes</string>
+    <string name="home_afternoon_intro">Good Afternoon \n Here\'s the status of your recipes</string>
+    <string name="home_evening_intro">Good Evening \n Here\'s the status of your recipes</string>
+    <string name="ready_to_make">Ready to make!</string>
+    <string name="default_recipe">Pad Thai</string>
+    <string name="default_recipe_requirements">6/6 ingredients</string>
+    <string name="almost_ready">Almost there!</string>
+    <string name="not_ready">Not quite</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="shopping_list_location_1">Items at *location 1* *(x miles away)*</string>
+    <string name="shopping_list_location_2">Items at *location 2* *(y miles away)*</string>
+    <string name="content_desc">add item to list</string>
+    <string name="add_item_to_pantry">What\'s the name of your ingredient?</string>
+    <string name="name_of_ingredient">ingredient:</string>
+    <string name="remove_pantry_title">Your pantry consists of:</string>
+    <string name="add_pantry_done">Done</string>
+    <string name="shop_list_hint">item:</string>
+
+    <string name="search_title">Search</string>
+    <string name="clear">Clear</string>
+    <string name="move_to_pantry">Move to Pantry</string>
+    <string name="remove_fav_title">What\'s not your favorite anymore?</string>
+    <string name="back_but">Back</string>
+
+    <string name="loading_recipes">Loading Recipes…</string>
+    <string name="title_activity_maps">Grocery Store Map</string>
+    <string name="action_shop">Find Store</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDMo168dRurX9i4b3OYAUeEkwmHii7pZcQ</string>
+</resources>

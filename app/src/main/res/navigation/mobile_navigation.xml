@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="edu.wwu.csci412.whatsfordinner.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_pantry"
+        android:name="edu.wwu.csci412.whatsfordinner.ui.pantry.PantryFragment"
+        android:label="@string/menu_pantry"
+        tools:layout="@layout/pantry" />
+
+    <fragment
+        android:id="@+id/nav_recipes"
+        android:name="edu.wwu.csci412.whatsfordinner.ui.recipes.RecipesFragment"
+        android:label="@string/menu_recipes"
+        tools:layout="@layout/recipes" />
+
+    <fragment
+        android:id="@+id/nav_shoppinglist"
+        android:name="edu.wwu.csci412.whatsfordinner.ui.shoppinglist.ShoppingListFragment"
+        android:label="@string/menu_shoppinglist"
+        tools:layout="@layout/shoppinglist" />
+</navigation>
